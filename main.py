@@ -1,0 +1,1 @@
+print("Adhan-time")
