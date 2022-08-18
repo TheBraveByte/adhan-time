@@ -1,1 +1,1 @@
-# Adhan Prayet Time
+# Adhan Prayer Time
