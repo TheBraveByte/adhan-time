@@ -1,21 +1,22 @@
-# Adhan Prayer Time
+# Adhan Time
 
-Adhan Prayer Time is a user-friendly GUI(Graphical user interface) application that provides accurate prayer times and relevant information for individuals attending a mosque. The application's goal is to offer an easy-to-use tool for accessing prayer times and relevant information while at a mosque.
+It is an intuitive GUI application tailored for mosque-goers seeking precise prayer times and relevant insights. Seamlessly blending convenience with spirituality, this tool simplifies access to prayer schedules and relevant notifications within the mosque environment.
 
-# Features
+## Features
 
-- Written in Python, making it easy to customize and extend.
-- Displays accurate prayer times based on updated prayer time data.
-- Provides timely notices and information for individuals attending a mosque.
-- Easy-to-use graphical interface for effortless navigation and access to relevant information.
+- Crafted using Python, allowing effortless customization and expansion.
+- Presents accurate prayer times sourced from real-time updates.
+- Delivers timely notices and essential information for mosque attendees.
+- User-friendly graphical interface for intuitive navigation and quick access.
 
-# Usage
+## Getting Started
 
-To run the main Python file, please use the following command in your terminal:
+Run the main Python file with the following terminal command:
 
-```py
+```bash
 python main.py
 ```
-# Important Note
 
-Please note that Adhan Prayer Time relies on accurate and up-to-date prayer time data to function correctly. If the data is outdated or incorrect, the application may not display accurate prayer times or provide timely notices and information. To ensure the application functions correctly, it is recommended to use the most current prayer time data and have it structured in a similar way to the data.csv file provided in the application's repository. It is the user's responsibility to verify the accuracy of the data used by the application.
+## Important Notice
+
+Kindly note that the accuracy of Adhan Prayer Time hinges on current and precise prayer time data. Outdated or correct data may lead to accurate prayer times and notifications. We recommend utilizing the latest prayer time data, structured like the provided data.csv file within the application's repository, for seamless functionality. Users are responsible for ensuring the data's accuracy for optimal application performance.
